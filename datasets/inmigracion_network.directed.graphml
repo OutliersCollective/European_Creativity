@@ -1,0 +1,795 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="type" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Oceania">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Sarria-S. Gervasi">
+      <data key="d0">destination</data>
+    </node>
+    <node id="Sants-Montjuic">
+      <data key="d0">destination</data>
+    </node>
+    <node id="Astúries (Principat d')">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Les Corts">
+      <data key="d0">destination</data>
+    </node>
+    <node id="Galícia">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Nou  Barris">
+      <data key="d0">destination</data>
+    </node>
+    <node id="Múrcia (Regió de)">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Extremadura">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Sant  Marti">
+      <data key="d0">destination</data>
+    </node>
+    <node id="Aragó">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Castella i Lleó">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Àfrica">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Resta Europa">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Canàries">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Madrid (Comunitat de)">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Unió Europea (dels 27)">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Balears, les (Illes)">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Ceuta-Melilla">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Rioja, la">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Navarra (Comunitat Foral de)">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Horta-Guinardo">
+      <data key="d0">destination</data>
+    </node>
+    <node id="Eixample">
+      <data key="d0">destination</data>
+    </node>
+    <node id="Sant  Andreu">
+      <data key="d0">destination</data>
+    </node>
+    <node id="País Basc, el">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Catalunya">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Castella-La Manxa">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Cantàbria">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Amèrica">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Àsia">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Comunitat Valenciana, la">
+      <data key="d0">origin</data>
+    </node>
+    <node id="Gracia">
+      <data key="d0">destination</data>
+    </node>
+    <node id="Ciutat  Vella">
+      <data key="d0">destination</data>
+    </node>
+    <edge source="Oceania" target="Sant  Marti">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Oceania" target="Sarria-S. Gervasi">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Oceania" target="Eixample">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Oceania" target="Sant  Andreu">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Oceania" target="Ciutat  Vella">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="Oceania" target="Les Corts">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Oceania" target="Sants-Montjuic">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Oceania" target="Nou  Barris">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Oceania" target="Gracia">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Oceania" target="Horta-Guinardo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Sant  Marti">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Sarria-S. Gervasi">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Eixample">
+      <data key="d1">58</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Sant  Andreu">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Ciutat  Vella">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Les Corts">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Sants-Montjuic">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Nou  Barris">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Gracia">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Astúries (Principat d')" target="Horta-Guinardo">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Galícia" target="Sant  Marti">
+      <data key="d1">145</data>
+    </edge>
+    <edge source="Galícia" target="Sarria-S. Gervasi">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="Galícia" target="Eixample">
+      <data key="d1">176</data>
+    </edge>
+    <edge source="Galícia" target="Sant  Andreu">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="Galícia" target="Ciutat  Vella">
+      <data key="d1">118</data>
+    </edge>
+    <edge source="Galícia" target="Les Corts">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="Galícia" target="Sants-Montjuic">
+      <data key="d1">128</data>
+    </edge>
+    <edge source="Galícia" target="Nou  Barris">
+      <data key="d1">88</data>
+    </edge>
+    <edge source="Galícia" target="Gracia">
+      <data key="d1">105</data>
+    </edge>
+    <edge source="Galícia" target="Horta-Guinardo">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Sant  Marti">
+      <data key="d1">54</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Sarria-S. Gervasi">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Eixample">
+      <data key="d1">69</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Sant  Andreu">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Ciutat  Vella">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Les Corts">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Sants-Montjuic">
+      <data key="d1">61</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Nou  Barris">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Gracia">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Múrcia (Regió de)" target="Horta-Guinardo">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Extremadura" target="Sant  Marti">
+      <data key="d1">51</data>
+    </edge>
+    <edge source="Extremadura" target="Sarria-S. Gervasi">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Extremadura" target="Eixample">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="Extremadura" target="Sant  Andreu">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Extremadura" target="Ciutat  Vella">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Extremadura" target="Les Corts">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Extremadura" target="Sants-Montjuic">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Extremadura" target="Nou  Barris">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="Extremadura" target="Gracia">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Extremadura" target="Horta-Guinardo">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Aragó" target="Sant  Marti">
+      <data key="d1">155</data>
+    </edge>
+    <edge source="Aragó" target="Sarria-S. Gervasi">
+      <data key="d1">69</data>
+    </edge>
+    <edge source="Aragó" target="Eixample">
+      <data key="d1">194</data>
+    </edge>
+    <edge source="Aragó" target="Sant  Andreu">
+      <data key="d1">82</data>
+    </edge>
+    <edge source="Aragó" target="Ciutat  Vella">
+      <data key="d1">74</data>
+    </edge>
+    <edge source="Aragó" target="Les Corts">
+      <data key="d1">84</data>
+    </edge>
+    <edge source="Aragó" target="Sants-Montjuic">
+      <data key="d1">108</data>
+    </edge>
+    <edge source="Aragó" target="Nou  Barris">
+      <data key="d1">91</data>
+    </edge>
+    <edge source="Aragó" target="Gracia">
+      <data key="d1">53</data>
+    </edge>
+    <edge source="Aragó" target="Horta-Guinardo">
+      <data key="d1">81</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Sant  Marti">
+      <data key="d1">129</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Sarria-S. Gervasi">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Eixample">
+      <data key="d1">176</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Sant  Andreu">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Ciutat  Vella">
+      <data key="d1">85</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Les Corts">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Sants-Montjuic">
+      <data key="d1">105</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Nou  Barris">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Gracia">
+      <data key="d1">65</data>
+    </edge>
+    <edge source="Castella i Lleó" target="Horta-Guinardo">
+      <data key="d1">89</data>
+    </edge>
+    <edge source="Àfrica" target="Sant  Marti">
+      <data key="d1">154</data>
+    </edge>
+    <edge source="Àfrica" target="Sarria-S. Gervasi">
+      <data key="d1">68</data>
+    </edge>
+    <edge source="Àfrica" target="Eixample">
+      <data key="d1">144</data>
+    </edge>
+    <edge source="Àfrica" target="Sant  Andreu">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="Àfrica" target="Ciutat  Vella">
+      <data key="d1">187</data>
+    </edge>
+    <edge source="Àfrica" target="Les Corts">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="Àfrica" target="Sants-Montjuic">
+      <data key="d1">150</data>
+    </edge>
+    <edge source="Àfrica" target="Nou  Barris">
+      <data key="d1">130</data>
+    </edge>
+    <edge source="Àfrica" target="Gracia">
+      <data key="d1">86</data>
+    </edge>
+    <edge source="Àfrica" target="Horta-Guinardo">
+      <data key="d1">78</data>
+    </edge>
+    <edge source="Resta Europa" target="Sant  Marti">
+      <data key="d1">288</data>
+    </edge>
+    <edge source="Resta Europa" target="Sarria-S. Gervasi">
+      <data key="d1">193</data>
+    </edge>
+    <edge source="Resta Europa" target="Eixample">
+      <data key="d1">350</data>
+    </edge>
+    <edge source="Resta Europa" target="Sant  Andreu">
+      <data key="d1">112</data>
+    </edge>
+    <edge source="Resta Europa" target="Ciutat  Vella">
+      <data key="d1">210</data>
+    </edge>
+    <edge source="Resta Europa" target="Les Corts">
+      <data key="d1">113</data>
+    </edge>
+    <edge source="Resta Europa" target="Sants-Montjuic">
+      <data key="d1">163</data>
+    </edge>
+    <edge source="Resta Europa" target="Nou  Barris">
+      <data key="d1">113</data>
+    </edge>
+    <edge source="Resta Europa" target="Gracia">
+      <data key="d1">124</data>
+    </edge>
+    <edge source="Resta Europa" target="Horta-Guinardo">
+      <data key="d1">142</data>
+    </edge>
+    <edge source="Canàries" target="Sant  Marti">
+      <data key="d1">114</data>
+    </edge>
+    <edge source="Canàries" target="Sarria-S. Gervasi">
+      <data key="d1">53</data>
+    </edge>
+    <edge source="Canàries" target="Eixample">
+      <data key="d1">167</data>
+    </edge>
+    <edge source="Canàries" target="Sant  Andreu">
+      <data key="d1">74</data>
+    </edge>
+    <edge source="Canàries" target="Ciutat  Vella">
+      <data key="d1">131</data>
+    </edge>
+    <edge source="Canàries" target="Les Corts">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="Canàries" target="Sants-Montjuic">
+      <data key="d1">110</data>
+    </edge>
+    <edge source="Canàries" target="Nou  Barris">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="Canàries" target="Gracia">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="Canàries" target="Horta-Guinardo">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Sant  Marti">
+      <data key="d1">374</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Sarria-S. Gervasi">
+      <data key="d1">272</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Eixample">
+      <data key="d1">582</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Sant  Andreu">
+      <data key="d1">175</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Ciutat  Vella">
+      <data key="d1">303</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Les Corts">
+      <data key="d1">130</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Sants-Montjuic">
+      <data key="d1">295</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Nou  Barris">
+      <data key="d1">184</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Gracia">
+      <data key="d1">167</data>
+    </edge>
+    <edge source="Madrid (Comunitat de)" target="Horta-Guinardo">
+      <data key="d1">154</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Sant  Marti">
+      <data key="d1">996</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Sarria-S. Gervasi">
+      <data key="d1">576</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Eixample">
+      <data key="d1">1760</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Sant  Andreu">
+      <data key="d1">233</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Ciutat  Vella">
+      <data key="d1">2000</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Les Corts">
+      <data key="d1">258</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Sants-Montjuic">
+      <data key="d1">846</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Nou  Barris">
+      <data key="d1">213</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Gracia">
+      <data key="d1">735</data>
+    </edge>
+    <edge source="Unió Europea (dels 27)" target="Horta-Guinardo">
+      <data key="d1">391</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Sant  Marti">
+      <data key="d1">201</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Sarria-S. Gervasi">
+      <data key="d1">291</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Eixample">
+      <data key="d1">389</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Sant  Andreu">
+      <data key="d1">114</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Ciutat  Vella">
+      <data key="d1">216</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Les Corts">
+      <data key="d1">115</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Sants-Montjuic">
+      <data key="d1">201</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Nou  Barris">
+      <data key="d1">80</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Gracia">
+      <data key="d1">190</data>
+    </edge>
+    <edge source="Balears, les (Illes)" target="Horta-Guinardo">
+      <data key="d1">111</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Sant  Marti">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Sarria-S. Gervasi">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Eixample">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Sant  Andreu">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Ciutat  Vella">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Les Corts">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Sants-Montjuic">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Nou  Barris">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Gracia">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Ceuta-Melilla" target="Horta-Guinardo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Rioja, la" target="Sant  Marti">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Rioja, la" target="Sarria-S. Gervasi">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Rioja, la" target="Eixample">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Rioja, la" target="Sant  Andreu">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Rioja, la" target="Ciutat  Vella">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Rioja, la" target="Les Corts">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Rioja, la" target="Sants-Montjuic">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Rioja, la" target="Nou  Barris">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Rioja, la" target="Gracia">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Rioja, la" target="Horta-Guinardo">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Sant  Marti">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Sarria-S. Gervasi">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Eixample">
+      <data key="d1">64</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Sant  Andreu">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Ciutat  Vella">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Les Corts">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Sants-Montjuic">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Nou  Barris">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Gracia">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Navarra (Comunitat Foral de)" target="Horta-Guinardo">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="País Basc, el" target="Sant  Marti">
+      <data key="d1">88</data>
+    </edge>
+    <edge source="País Basc, el" target="Sarria-S. Gervasi">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="País Basc, el" target="Eixample">
+      <data key="d1">119</data>
+    </edge>
+    <edge source="País Basc, el" target="Sant  Andreu">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="País Basc, el" target="Ciutat  Vella">
+      <data key="d1">126</data>
+    </edge>
+    <edge source="País Basc, el" target="Les Corts">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="País Basc, el" target="Sants-Montjuic">
+      <data key="d1">97</data>
+    </edge>
+    <edge source="País Basc, el" target="Nou  Barris">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="País Basc, el" target="Gracia">
+      <data key="d1">59</data>
+    </edge>
+    <edge source="País Basc, el" target="Horta-Guinardo">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="Catalunya" target="Sant  Marti">
+      <data key="d1">5075</data>
+    </edge>
+    <edge source="Catalunya" target="Sarria-S. Gervasi">
+      <data key="d1">2775</data>
+    </edge>
+    <edge source="Catalunya" target="Eixample">
+      <data key="d1">5716</data>
+    </edge>
+    <edge source="Catalunya" target="Sant  Andreu">
+      <data key="d1">3366</data>
+    </edge>
+    <edge source="Catalunya" target="Ciutat  Vella">
+      <data key="d1">3225</data>
+    </edge>
+    <edge source="Catalunya" target="Les Corts">
+      <data key="d1">1706</data>
+    </edge>
+    <edge source="Catalunya" target="Sants-Montjuic">
+      <data key="d1">5316</data>
+    </edge>
+    <edge source="Catalunya" target="Nou  Barris">
+      <data key="d1">3671</data>
+    </edge>
+    <edge source="Catalunya" target="Gracia">
+      <data key="d1">2184</data>
+    </edge>
+    <edge source="Catalunya" target="Horta-Guinardo">
+      <data key="d1">3130</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Sant  Marti">
+      <data key="d1">83</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Sarria-S. Gervasi">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Eixample">
+      <data key="d1">80</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Sant  Andreu">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Ciutat  Vella">
+      <data key="d1">59</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Les Corts">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Sants-Montjuic">
+      <data key="d1">66</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Nou  Barris">
+      <data key="d1">68</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Gracia">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="Castella-La Manxa" target="Horta-Guinardo">
+      <data key="d1">54</data>
+    </edge>
+    <edge source="Cantàbria" target="Sant  Marti">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Cantàbria" target="Sarria-S. Gervasi">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Cantàbria" target="Eixample">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="Cantàbria" target="Sant  Andreu">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Cantàbria" target="Ciutat  Vella">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Cantàbria" target="Les Corts">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Cantàbria" target="Sants-Montjuic">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Cantàbria" target="Nou  Barris">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Cantàbria" target="Gracia">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Cantàbria" target="Horta-Guinardo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Amèrica" target="Sant  Marti">
+      <data key="d1">1104</data>
+    </edge>
+    <edge source="Amèrica" target="Sarria-S. Gervasi">
+      <data key="d1">890</data>
+    </edge>
+    <edge source="Amèrica" target="Eixample">
+      <data key="d1">2620</data>
+    </edge>
+    <edge source="Amèrica" target="Sant  Andreu">
+      <data key="d1">643</data>
+    </edge>
+    <edge source="Amèrica" target="Ciutat  Vella">
+      <data key="d1">963</data>
+    </edge>
+    <edge source="Amèrica" target="Les Corts">
+      <data key="d1">572</data>
+    </edge>
+    <edge source="Amèrica" target="Sants-Montjuic">
+      <data key="d1">1158</data>
+    </edge>
+    <edge source="Amèrica" target="Nou  Barris">
+      <data key="d1">929</data>
+    </edge>
+    <edge source="Amèrica" target="Gracia">
+      <data key="d1">839</data>
+    </edge>
+    <edge source="Amèrica" target="Horta-Guinardo">
+      <data key="d1">914</data>
+    </edge>
+    <edge source="Àsia" target="Sant  Marti">
+      <data key="d1">759</data>
+    </edge>
+    <edge source="Àsia" target="Sarria-S. Gervasi">
+      <data key="d1">316</data>
+    </edge>
+    <edge source="Àsia" target="Eixample">
+      <data key="d1">858</data>
+    </edge>
+    <edge source="Àsia" target="Sant  Andreu">
+      <data key="d1">314</data>
+    </edge>
+    <edge source="Àsia" target="Ciutat  Vella">
+      <data key="d1">1789</data>
+    </edge>
+    <edge source="Àsia" target="Les Corts">
+      <data key="d1">248</data>
+    </edge>
+    <edge source="Àsia" target="Sants-Montjuic">
+      <data key="d1">884</data>
+    </edge>
+    <edge source="Àsia" target="Nou  Barris">
+      <data key="d1">280</data>
+    </edge>
+    <edge source="Àsia" target="Gracia">
+      <data key="d1">329</data>
+    </edge>
+    <edge source="Àsia" target="Horta-Guinardo">
+      <data key="d1">241</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Sant  Marti">
+      <data key="d1">362</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Sarria-S. Gervasi">
+      <data key="d1">128</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Eixample">
+      <data key="d1">479</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Sant  Andreu">
+      <data key="d1">170</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Ciutat  Vella">
+      <data key="d1">330</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Les Corts">
+      <data key="d1">94</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Sants-Montjuic">
+      <data key="d1">394</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Nou  Barris">
+      <data key="d1">190</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Gracia">
+      <data key="d1">193</data>
+    </edge>
+    <edge source="Comunitat Valenciana, la" target="Horta-Guinardo">
+      <data key="d1">156</data>
+    </edge>
+  </graph>
+</graphml>
